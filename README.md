@@ -57,6 +57,14 @@
 ![Database - MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
 ![Database - SQLite](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=003B57)
 
+<h2><samp><strong style="font-size: 2em;">Contact me</strong></samp></h2>
+<br />
+<div align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/stivenvr"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+  <a target="_blank" href="mailto:stivenvillarreal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+</div>
+
+<!--
 <h2><samp><strong style="font-size: 2em;">My GitHub Stats 📊</strong></samp></h2>
 
 <div align="center">
@@ -65,13 +73,7 @@
 <br />
 <a href="http://www.github.com/JS-VILLARREAL"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JS-VILLARREAL&stroke=ffffff&background=0,000000,1c1917&ring=4493f8&fire=4493f8&currStreakNum=ffffff&currStreakLabel=4493f8&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
-
-<h2><samp><strong style="font-size: 2em;">Contact me</strong></samp></h2>
-<br />
-<div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/stivenvr"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-  <a target="_blank" href="mailto:stivenvillarreal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-</div>
+-->
 
 <br />
 
