@@ -23,6 +23,20 @@
 - 💬 Ask me about anything.
 </pre>
 
+<h2><samp><strong style="font-size: 2em;">Contact me</strong></samp></h2>
+<div align='center'>
+  <samp>
+    <a rel="nofollow noopener noreferrer" target="_blank" href='#'>website</a> •
+    <a rel="nofollow noopener noreferrer" target="_blank" href='https://www.linkedin.com/in/stivenvr/'>linkedin</a> •
+    <a rel="nofollow noopener noreferrer" target="_blank" href='mailto:stivenvillarreal@gmail.com'>Email</a>
+  </samp>
+</div>
+
+<!--
+<div align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/stivenvr"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+  <a target="_blank" href="mailto:stivenvillarreal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+</div>
 <h2><samp><strong style="font-size: 2em;">Tech Stack</strong></samp></h2>
 
 <samp> Frontend </samp>
@@ -57,14 +71,6 @@
 ![Database - MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
 ![Database - SQLite](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=003B57)
 
-<h2><samp><strong style="font-size: 2em;">Contact me</strong></samp></h2>
-<br />
-<div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/stivenvr"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-  <a target="_blank" href="mailto:stivenvillarreal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-</div>
-
-<!--
 <h2><samp><strong style="font-size: 2em;">My GitHub Stats 📊</strong></samp></h2>
 
 <div align="center">
