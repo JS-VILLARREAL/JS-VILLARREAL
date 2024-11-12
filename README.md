@@ -83,4 +83,4 @@
 
 <br />
 
-> "La simplicidad es la máxima sofisticación." - Leonardo da Vinci
+> "Simplicity is the ultimate sophistication." - Leonardo da Vinci
