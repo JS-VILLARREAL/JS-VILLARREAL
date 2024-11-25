@@ -35,6 +35,7 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,tailwind,css,html" height=32 alt="Frontend" />
 </a>
+
 <samp> Backend </samp>
 <br />
 <a href="https://skillicons.dev">
