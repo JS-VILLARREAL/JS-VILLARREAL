@@ -22,27 +22,20 @@
 - 🤝 I’m looking to collaborate on interesting projects.
 - 💬 Ask me about anything.
 </pre>
-
-<h2><samp><strong style="font-size: 2em;">Contact me</strong></samp></h2>
-<div align='center'>
-  <samp>
-    <a rel="nofollow noopener noreferrer" target="_blank" href='#'>website</a> •
-    <a rel="nofollow noopener noreferrer" target="_blank" href='https://www.linkedin.com/in/stivenvr/'>linkedin</a> •
-    <a rel="nofollow noopener noreferrer" target="_blank" href='mailto:stivenvillarreal@gmail.com'>Email</a>
-  </samp>
-</div>
-
 <!--
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/stivenvr"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
   <a target="_blank" href="mailto:stivenvillarreal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 </div>
+-->
 <h2><samp><strong style="font-size: 2em;">Tech Stack</strong></samp></h2>
 
 <samp> Frontend </samp>
 <br />
-<br />
-
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,tailwind,css,html" height=32 alt="Frontend" />
+</a>
+<!--
 ![Frontend - HTML5](https://img.shields.io/badge/Frontend-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
 ![Frontend - CSS3](https://img.shields.io/badge/Frontend-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
 ![Frontend - Bootstrap](https://img.shields.io/badge/Frontend-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=7952B3)
@@ -52,18 +45,25 @@
 ![Frontend - Tailwindcss](https://img.shields.io/badge/Frontend-Tailwindcss-informational?style=flat&logo=tailwindcss&logoColor=white&color=61DAFB)
 ![Frontend - VueJS](https://img.shields.io/badge/Frontend-VueJS-informational?style=flat&logo=vue.js&logoColor=white&color=4FC08D)
 ![Frontend - NextJS](https://img.shields.io/badge/Frontend-NextJS-informational?style=flat&logo=next.js&logoColor=white&color=ffffff)
-
+-->
 <samp> Backend </samp>
 <br />
-<br />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs" height=32 alt="Backend" />
+</a>
+<!--
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,redis,prisma,docker,supabase" height=32 alt="Backend" />
 ![Backend - Python](https://img.shields.io/badge/Backend-Python-informational?style=flat&logo=python&logoColor=white&color=003B57)
 ![Backend - Django](https://img.shields.io/badge/Backend-Django-informational?style=flat&logo=Django&logoColor=white&color=a90000)
 ![Backend - NodeJS](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=339933)
 ![Backend - ExpressJS](https://img.shields.io/badge/Backend-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=000000)
-
+-->
 <samp> Tools & Databases</samp>
 <br />
-<br />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,mongodb,mysql,sqlite,postgres,supabase,firebase,postman" height=32 alt="Backend" />
+</a>
+<!--
 ![Tool - GitHub](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=orange)
 ![Tool - Git](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=orange)
 ![Tool - Jupyter](https://img.shields.io/badge/Tool-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=orange)
@@ -80,7 +80,15 @@
 <a href="http://www.github.com/JS-VILLARREAL"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JS-VILLARREAL&stroke=ffffff&background=0,000000,1c1917&ring=4493f8&fire=4493f8&currStreakNum=ffffff&currStreakLabel=4493f8&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 -->
+<h2><samp><strong style="font-size: 2em;">Contact me</strong></samp></h2>
+<div align='center'>
+  <samp>
+    <a rel="nofollow noopener noreferrer" target="_blank" href='#'>website</a> •
+    <a rel="nofollow noopener noreferrer" target="_blank" href='https://www.linkedin.com/in/stivenvr/'>linkedin</a> •
+    <a rel="nofollow noopener noreferrer" target="_blank" href='mailto:stivenvillarreal@gmail.com'>Email</a>
+  </samp>
+</div>
 
 <br />
 
-> "Simplicity is the ultimate sophistication." - Leonardo da Vinci
+> *"Simplicity is the ultimate sophistication." - Leonardo da Vinci*
