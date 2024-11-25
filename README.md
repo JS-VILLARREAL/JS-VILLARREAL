@@ -35,17 +35,6 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,tailwind,css,html" height=32 alt="Frontend" />
 </a>
-<!--
-![Frontend - HTML5](https://img.shields.io/badge/Frontend-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
-![Frontend - CSS3](https://img.shields.io/badge/Frontend-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
-![Frontend - Bootstrap](https://img.shields.io/badge/Frontend-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=7952B3)
-![Frontend - JavaScript](https://img.shields.io/badge/Frontend-JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=F7DF1E)
-![Frontend - TypeScript](https://img.shields.io/badge/Frontend-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
-![Frontend - ReactJS](https://img.shields.io/badge/Frontend-ReactJS-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
-![Frontend - Tailwindcss](https://img.shields.io/badge/Frontend-Tailwindcss-informational?style=flat&logo=tailwindcss&logoColor=white&color=61DAFB)
-![Frontend - VueJS](https://img.shields.io/badge/Frontend-VueJS-informational?style=flat&logo=vue.js&logoColor=white&color=4FC08D)
-![Frontend - NextJS](https://img.shields.io/badge/Frontend-NextJS-informational?style=flat&logo=next.js&logoColor=white&color=ffffff)
--->
 <samp> Backend </samp>
 <br />
 <a href="https://skillicons.dev">
@@ -53,10 +42,6 @@
 </a>
 <!--
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,redis,prisma,docker,supabase" height=32 alt="Backend" />
-![Backend - Python](https://img.shields.io/badge/Backend-Python-informational?style=flat&logo=python&logoColor=white&color=003B57)
-![Backend - Django](https://img.shields.io/badge/Backend-Django-informational?style=flat&logo=Django&logoColor=white&color=a90000)
-![Backend - NodeJS](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=339933)
-![Backend - ExpressJS](https://img.shields.io/badge/Backend-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=000000)
 -->
 <samp> Tools & Databases</samp>
 <br />
@@ -64,13 +49,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,mongodb,mysql,sqlite,postgres,supabase,firebase,postman" height=32 alt="Backend" />
 </a>
 <!--
-![Tool - GitHub](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=orange)
-![Tool - Git](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=orange)
-![Tool - Jupyter](https://img.shields.io/badge/Tool-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=orange)
-![Database - MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
-![Database - MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
-![Database - SQLite](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=003B57)
-
 <h2><samp><strong style="font-size: 2em;">My GitHub Stats 📊</strong></samp></h2>
 
 <div align="center">
@@ -83,9 +61,9 @@
 <h2><samp><strong style="font-size: 2em;">Contact me</strong></samp></h2>
 <div align='center'>
   <samp>
-    <a rel="nofollow noopener noreferrer" target="_blank" href='#'>website</a> •
-    <a rel="nofollow noopener noreferrer" target="_blank" href='https://www.linkedin.com/in/stivenvr/'>linkedin</a> •
-    <a rel="nofollow noopener noreferrer" target="_blank" href='mailto:stivenvillarreal@gmail.com'>Email</a>
+    <a rel="noopener" target="_blank" href='#'>website</a> •
+    <a rel="noopener" target="_blank" href='https://www.linkedin.com/in/stivenvr/'>linkedin</a> •
+    <a rel="noopener" target="_blank" href='mailto:stivenvillarreal@gmail.com'>Email</a>
   </samp>
 </div>
 
