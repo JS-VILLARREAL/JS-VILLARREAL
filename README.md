@@ -5,7 +5,7 @@
 <samp>
   Hi there!, I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/stivenvr">Stiven</a></b>.
 <br>
-  I'm Systems Engineer & Full-Stack Developer. 🧑‍💻
+  I'm Systems Engineer & Software Developer. 🧑‍💻
 <br>
 </samp>
 </p>
