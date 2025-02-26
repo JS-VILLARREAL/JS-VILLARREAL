@@ -18,9 +18,8 @@
 
 <pre>
 - 🖥️ See my portfolio at ...
-- 🌱 I’m currently learning a new framework.
+- 🌱 I’m currently learning a lot of stuff.
 - 🤝 I’m looking to collaborate on interesting projects.
-- 💬 Ask me about anything.
 </pre>
 <!--
 <div align="center">
@@ -63,7 +62,7 @@
 <div align='center'>
   <samp>
     <a rel="noopener" target="_blank" href='#'>website</a> •
-    <a rel="noopener" target="_blank" href='https://www.linkedin.com/in/stivenvr/'>linkedin</a> •
+    <a rel="noopener" target="_blank" href='https://www.linkedin.com/in/stivenvr/'>Linkedin</a> •
     <a rel="noopener" target="_blank" href='mailto:stivenvillarreal@gmail.com'>Email</a>
   </samp>
 </div>
