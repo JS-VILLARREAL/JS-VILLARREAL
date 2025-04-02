@@ -61,7 +61,7 @@
 <h2><samp><strong style="font-size: 2em;">Contact me</strong></samp></h2>
 <div align='center'>
   <samp>
-    <a rel="noopener" target="_blank" href='#'>website</a> •
+    <a rel="noopener" target="_blank" href='https://stvn-self.vercel.app'>website</a> •
     <a rel="noopener" target="_blank" href='https://www.linkedin.com/in/stivenvr/'>Linkedin</a> •
     <a rel="noopener" target="_blank" href='mailto:stivenvillarreal@gmail.com'>Email</a>
   </samp>
