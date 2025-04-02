@@ -17,7 +17,7 @@
 <br />
 
 <pre>
-- 🖥️ See my portfolio at ...
+- 🖥️ See my portfolio at <a href="https://stvn-self.vercel.app" target="_blank">Stvn</a>
 - 🌱 I’m currently learning a lot of stuff.
 - 🤝 I’m looking to collaborate on interesting projects.
 </pre>
