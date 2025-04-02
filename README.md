@@ -11,8 +11,9 @@
 </p>
 
 <samp>
-  +2 years of professional experience. Skilled in programming, databases and creating seamless user experiences. Expert in modern technologies and good development practices, focused on creating robust and scalable solutions.
+  Systems Engineer with more than 2 years of experience in software development. I have created scalable solutions that optimize processes and improved user experience.
 </samp>
+
 <br />
 <br />
 
